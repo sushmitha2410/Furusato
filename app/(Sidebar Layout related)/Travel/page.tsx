@@ -20,18 +20,18 @@ const Travel = () => {
           transportation systems. Here are the key methods of getting around:
         </p>
         <p className="text-justify pb-3 text-xs md:text-sm lg:text-sm">
-          <b>Shinkansen(Bullet Train) :</b> Japan's famous Shinkansen network
-          provides lightning-fast travel between major cities like Tokyo, Kyoto,
-          and Osaka. Known for punctuality and comfort, these trains offer a
-          luxurious experience, especially for travelers with Japan Rail (JR)
-          passes. The sleek design and speeds of up to 320 km/h make the
-          Shinkansen not only a convenient mode of transport but also a symbol
-          of Japan’s technological advancement.
+          <b>Shinkansen(Bullet Train) :</b> Japan&apos;s famous Shinkansen
+          network provides lightning-fast travel between major cities like
+          Tokyo, Kyoto, and Osaka. Known for punctuality and comfort, these
+          trains offer a luxurious experience, especially for travelers with
+          Japan Rail (JR) passes. The sleek design and speeds of up to 320 km/h
+          make the Shinkansen not only a convenient mode of transport but also a
+          symbol of Japan’s technological advancement.
         </p>
         <p className="text-justify pb-3 text-xs md:text-sm lg:text-sm">
           <b>Public Metro and Trains :</b> Major cities like Tokyo and Osaka
           have extensive public metro systems, making travel within urban areas
-          incredibly efficient. Tokyo's metro is famously complex but
+          incredibly efficient. Tokyo&apos;s metro is famously complex but
           well-organized, with clear signs and ticketing systems in English.
           Local trains and subways offer affordable and frequent services,
           catering to both daily commuters and tourists.
@@ -86,7 +86,7 @@ const Travel = () => {
           ACCOMODATION
         </h1>
         <p className="text-justify pb-3 text-xs md:text-sm lg:text-sm">
-          Japan offers a wide range of accommodations to fit every traveler's
+          Japan offers a wide range of accommodations to fit every travelers
           budget and style:
         </p>
         <p className="text-justify pb-3 text-xs md:text-sm lg:text-sm">

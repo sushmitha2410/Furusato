@@ -1,6 +1,5 @@
 import DescriptionCard from "@/components/descriptionCard";
 import PageHeader from "@/components/pageHeader";
-import Image from "next/image";
 const PopCulture = () => {
   return (
     <div className=" flex flex-wrap justify-evenly gap-y-6">

@@ -1,5 +1,4 @@
 import BigInfo from "@/components/BigInfoCard";
-import InfoCard from "@/components/infoCard";
 import PageHeaderTwo from "@/components/pageHeaderTwo";
 
 const ArtAndArchitecture = () => {

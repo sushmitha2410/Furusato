@@ -14,8 +14,8 @@ const Money = () => {
           MONEY TRANSACTIONS
         </h1>
         <p className="text-justify pb-3 text-xs md:text-sm lg:text-sm">
-          Japan's monetary system is a blend of traditional practices and modern
-          conveniences, ensuring that travelers can navigate financial
+          Japan&apos;s monetary system is a blend of traditional practices and
+          modern conveniences, ensuring that travelers can navigate financial
           transactions seamlessly:
         </p>
         <p className="text-justify pb-3 text-xs md:text-sm lg:text-sm">
@@ -83,9 +83,10 @@ const Money = () => {
         <p className="text-justify pb-3 text-xs md:text-sm lg:text-sm">
           <b>Free and Low-Cost Attractions :</b> Japan boasts a plethora of free
           attractions, including parks, temples, and gardens. Many museums offer
-          free entry on certain days, so it's wise to plan your visits around
-          these opportunities. Participating in local festivals and events can
-          also be a budget-friendly way to experience Japanese culture.
+          free entry on certain days, so it&apos;s wise to plan your visits
+          around these opportunities. Participating in local festivals and
+          events can also be a budget-friendly way to experience Japanese
+          culture.
         </p>
         <p className="text-justify pb-3 text-xs md:text-sm lg:text-sm">
           <b>Shopping Wisely :</b> For souvenirs and gifts, explore 100-yen

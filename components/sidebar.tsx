@@ -1,15 +1,12 @@
 "use client";
-import { ChevronFirst, ChevronRight, Loader } from "lucide-react";
+import { ChevronRight } from "lucide-react";
 import { Button } from "./ui/button";
-import { ClerkLoaded, ClerkLoading, SignedIn, UserButton } from "@clerk/nextjs";
 import Link from "next/link";
 import { useState } from "react";
 import React from "react";
-import { Interface } from "readline";
 
 export const Sidebar = () => {
   const [openSublist, setOpenSublist] = useState<number | null>(null);
-  const [isCollapsed, setIsCollapsed] = useState(false);
 
   const toggleSublist = (index: number) => {
     setOpenSublist((prev) => (prev === index ? null : index));

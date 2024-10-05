@@ -31,10 +31,10 @@ const TechnologyAndInnovation = () => {
           for being region-specific and super delicious. You might not know
           this, but Japan’s bullet trains have been so punctual that their
           average delay is only about 36 seconds per year! For tech fans,
-          there's an exciting future to watch out for—the Maglev Shinkansen,
-          which will connect Tokyo and Nagoya in just 40 minutes, traveling at
-          over 500 km/h! It’s the perfect way to explore Japan in speed and
-          style.
+          there&apos;s an exciting future to watch out for—the Maglev
+          Shinkansen, which will connect Tokyo and Nagoya in just 40 minutes,
+          traveling at over 500 km/h! It’s the perfect way to explore Japan in
+          speed and style.
         </p>
         <div className="p-5 lg:pl-5 lg:pr-10 relative">
           <div className="max-w-[450px] p-5 pr-10">
@@ -57,7 +57,7 @@ const TechnologyAndInnovation = () => {
           <div className="max-w-[450px] p-5 pr-10">
             <h1 className="text-center text-3xl font-bold">Robotics and AI </h1>
             <p className="text-sm sm:sm md:text-sm lg:text-sm text-justify">
-              Japan's obsession with robotics will blow your mind! While
+              Japan&apos;s obsession with robotics will blow your mind! While
               everyone knows about ASIMO and Pepper, what’s lesser-known is how
               robots are seamlessly integrated into daily life. You’ll find
               robot assistants in hotels, stores, and even airports greeting you
@@ -88,15 +88,15 @@ const TechnologyAndInnovation = () => {
           <div className="max-w-[450px] ml-20 p-5 md:ml-0 sm:ml-0">
             <h1 className="text-center text-3xl font-bold">5G Connectivity </h1>
             <p className="text-sm sm:sm md:text-sm lg:text-sm text-justify">
-              Japan is one of the global leaders in 5G, and it's rapidly
+              Japan is one of the global leaders in 5G, and it&apos;s rapidly
               expanding! With 5G, you can stream HD videos or even VR
-              experiences in real-time across major cities. Many travelers don't
-              realize that 5G in Japan is transforming tourism too—imagine using
-              AR apps to explore ancient temples with historical overlays or
-              seeing live translations of street signs. Tokyo’s tech hubs are
-              showcasing smart vending machines and connected devices, all
-              thanks to 5G. It’s a futuristic experience everywhere you go, and
-              it’s evolving fast!
+              experiences in real-time across major cities. Many travelers
+              don&apos;t realize that 5G in Japan is transforming tourism
+              too—imagine using AR apps to explore ancient temples with
+              historical overlays or seeing live translations of street signs.
+              Tokyo’s tech hubs are showcasing smart vending machines and
+              connected devices, all thanks to 5G. It’s a futuristic experience
+              everywhere you go, and it’s evolving fast!
             </p>
             <h1 className="text-center mt-14 text-3xl font-bold">
               Cashless Payments{" "}

@@ -1,4 +1,3 @@
-import InfoCard from "@/components/infoCard";
 import PageHeader from "@/components/pageHeader";
 
 const safetyAndEmergency = () => {

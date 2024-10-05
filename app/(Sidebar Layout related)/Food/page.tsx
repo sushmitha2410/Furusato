@@ -1,6 +1,5 @@
 import InfoCardSmall from "@/components/infoCardSmall";
 import PageHeader from "@/components/pageHeader";
-import PageHeaderTwo from "@/components/pageHeaderTwo";
 
 const Food = () => {
   return (

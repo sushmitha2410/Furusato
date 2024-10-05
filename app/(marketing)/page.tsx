@@ -47,7 +47,7 @@ export default function Home() {
             <p className="mt-[-30px] text-lg text-center">
               /fuɾuːsato/ . noun
               <br />
-              Nostalgic longing for one's home; sense of belonging to the
+              Nostalgic longing for one&apos;s home; sense of belonging to the
               goodness in Japan.
             </p>
           </div>

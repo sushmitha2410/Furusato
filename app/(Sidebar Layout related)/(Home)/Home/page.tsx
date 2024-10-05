@@ -34,19 +34,20 @@ const HomePage = () => {
       </Button>
       <div className=" max-w-[400px] px-5 pt-3 lg:pr-6">
         <p className="text-sm sm:sm md:text-sm lg:text-sm text-justify">
-          If you haven't visited Japan yet, then this blog is for you! It has
-          everything from how to manage your budget to the best authentic foods
-          you can try to the best places you can visit that make Japan... well,
-          Japan! In this blog you'll find new dimensions on why people admire
-          Japan so much. It’s a mind-blowing fusion of ancient wonder and
-          futuristic marvel that no other country can match. You can step into
-          centuries-old temples in the morning, then dive into neon-lit streets
-          buzzing with the latest tech by night. The food? Unrivaled – we’re
-          talking <b>sushi, ramen,</b> and street food that'll ruin all other
-          meals for you. And nature? From the dreamlike <b>cherry blossoms</b>{" "}
-          to the majestic <b>Mount Fuji,</b> it’s like stepping into a painting.
-          Honestly, Japan is an experience the world simply cannot afford to
-          miss. So why aren’t you there already?
+          If you haven&apos;t visited Japan yet, then this blog is for you! It
+          has everything from how to manage your budget to the best authentic
+          foods you can try to the best places you can visit that make Japan...
+          well, Japan! In this blog you&apos;ll find new dimensions on why
+          people admire Japan so much. It’s a mind-blowing fusion of ancient
+          wonder and futuristic marvel that no other country can match. You can
+          step into centuries-old temples in the morning, then dive into
+          neon-lit streets buzzing with the latest tech by night. The food?
+          Unrivaled – we’re talking <b>sushi, ramen,</b> and street food
+          that&apos;ll ruin all other meals for you. And nature? From the
+          dreamlike <b>cherry blossoms</b> to the majestic <b>Mount Fuji,</b>{" "}
+          it’s like stepping into a painting. Honestly, Japan is an experience
+          the world simply cannot afford to miss. So why aren’t you there
+          already?
         </p>
       </div>
     </div>
